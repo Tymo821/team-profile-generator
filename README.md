@@ -28,7 +28,7 @@ To install this project you can clone the repository.
 
 ## Contributing
 
-Tyler Moore, Georgia Tech Teacher's assistant
+Tyler Moore, Georgia Tech TA
 
 ## Tests
 
