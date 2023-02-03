@@ -5,7 +5,7 @@
   "main": "index.js",
   "directories": {
     "lib": "lib",
-    "test": "test"
+    "test": "tests"
   },
   "scripts": {
     "test": "jest",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Tymo821/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/Tymo821/team-profile-generator#readme"
+  "homepage": "https://github.com/Tymo821/team-profile-generator#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
 }
